@@ -1,6 +1,6 @@
-### Hi there 👋 Code... Eat... Sleep... Explore...
+<h1 align="center">Hi there 👋 Code... Eat... Sleep... Explore...</h1>
 
-<h2 align="center">Connect with me:</h2>
+<h3 align="center">Connect with me:</h3>
 <div align="center">
 
 <a href="https://stackoverflow.com/users/4270123/arun-yokesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.17.0/icons/stackoverflow.svg" alt="arunyokesh" height="30" width="40" /></a>
