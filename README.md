@@ -3,8 +3,8 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-<a href="https://stackoverflow.com/users/4270123/arun-yokesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.17.0/icons/stackoverflow.svg" alt="arunyokesh" height="30" width="40" /></a>
-<a href="https://instagram.com/arunyokesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="arunyokesh" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/4270123/arun-yokesh" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.17.0/icons/stackoverflow.svg" alt="arunyokesh" height="30" width="40" /></a>
+<a href="https://instagram.com/arunyokesh" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="arunyokesh" height="30" width="40" /></a>
 
 
 <br>
