@@ -1,5 +1,3 @@
-<h1 align="center">Hi there 👋 Code... Eat... Sleep... Explore...</h1>
-
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
@@ -15,7 +13,7 @@
 
 </div>
 
-## Github profile visitor count - Just now added 😄 so profile count will be low
+## Github profile visitor count - Recently added 😄 so profile count will be low.
 
 ![Github Profile Count](https://profile-counter.glitch.me/yokesharun/count.svg)
 
